@@ -30,7 +30,7 @@ ATM-Machine-Simulation/
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ATM-Machine-Project.git
+   git clone https://github.com/Jitendrapedina/mini-ATM-project-
    cd mini-ATM-project
 
 Run the main program:   python ATMMainProj.py
