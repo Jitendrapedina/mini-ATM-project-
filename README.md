@@ -14,15 +14,13 @@ This is a console-based Python project that simulates an ATM machine. It demonst
 - Custom exceptions for specific error cases
 
 ---
-
-## 🧱 Project Structure
 ATM-Machine-Simulation/
 │
-├── atm_main.py            # Main ATM simulation script
-├── ATMExcept.py           # Custom exception classes
-├── ATMMenu.py             # Menu for user interaction
-├── ATMOperations.py       # Logic for deposit, withdrawal, and balance check
-└── README.md              # Project documentation
+├── atm_main.py         # Main ATM simulation script
+├── ATMExcept.py        # Custom exception classes
+├── ATMMenu.py          # Menu for user interaction
+├── ATMOperations.py    # Logic for deposit, withdrawal, and balance check
+└── README.md           # Project documentation
 
 
 ----
