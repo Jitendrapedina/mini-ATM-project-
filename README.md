@@ -23,7 +23,7 @@ ATM-Machine-Simulation/
 ├── ATMMenu.py          # Menu for user interaction
 ├── ATMOperations.py    # Logic for deposit, withdrawal, and balance check
 └── README.md           # Project documentation
-
+```
 
 ----
 
@@ -33,4 +33,4 @@ ATM-Machine-Simulation/
    git clone https://github.com/Jitendrapedina/mini-ATM-project-
    cd mini-ATM-project
 
-Run the main program:   python ATMMainProj.py
+Run the main program:  ``` python ATMMainProj.py```
