@@ -16,7 +16,7 @@ This is a console-based Python project that simulates an ATM machine. It demonst
 ---
 ##🧱 Project Structure
 ```
-ATM-Machine-Simulation/
+mini-ATM-project/
 │
 ├── atm_main.py         # Main ATM simulation script
 ├── ATMExcept.py        # Custom exception classes
