@@ -16,17 +16,16 @@ This is a console-based Python project that simulates an ATM machine. It demonst
 ---
 
 ## 🧱 Project Structure
-Mini-ATM-Project/
+ATM-Machine-Simulation/
 │
-├── ATMMainProj.py # Main driver code
-├── ATMMenu.py # Module for displaying menu
-├── ATMOperations.py # Module for deposit, withdraw, and balance functions
-├── ATMExcept.py # Custom exceptions for banking errors
+├── atm_main.py            # Main ATM simulation script
+├── ATMExcept.py           # Custom exception classes
+├── ATMMenu.py             # Menu for user interaction
+├── ATMOperations.py       # Logic for deposit, withdrawal, and balance check
+└── README.md              # Project documentation
 
 
 ----
-
----
 
 ## ⚙️ How to Run
 1. Clone the repository:
